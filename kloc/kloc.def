@@ -1,0 +1,3 @@
+LIBRARY kloc
+EXPORTS
+	CBTProc @1

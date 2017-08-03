@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ktol", "BGM532_HW2\BGM532_HW2.vcxproj", "{A1E2AB51-99FA-4D63-AFBF-BB91C41E9D4F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kloc", "kloc\kloc.vcxproj", "{5955BCD5-5F19-44AF-B9FE-585E317B2400}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "toul", "toul\toul.vcxproj", "{B6364017-2B51-4639-9EA8-E55BEBD417EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW2Packer", "HW2Packer\HW2Packer.vcxproj", "{83DE9532-8770-43D4-9D10-FD0FD6DEFD7C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pamuk.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BGM532_HW2\\BGM532_HW2.vcxproj
+		SccProjectName1 = BGM532_HW2
+		SccLocalPath1 = BGM532_HW2
+		SccProjectUniqueName2 = kloc\\kloc.vcxproj
+		SccProjectName2 = kloc
+		SccLocalPath2 = kloc
+		SccProjectUniqueName3 = toul\\toul.vcxproj
+		SccProjectName3 = toul
+		SccLocalPath3 = toul
+		SccProjectUniqueName4 = HW2Packer\\HW2Packer.vcxproj
+		SccProjectName4 = HW2Packer
+		SccLocalPath4 = HW2Packer
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E2AB51-99FA-4D63-AFBF-BB91C41E9D4F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1E2AB51-99FA-4D63-AFBF-BB91C41E9D4F}.Debug|Win32.Build.0 = Debug|Win32
+		{A1E2AB51-99FA-4D63-AFBF-BB91C41E9D4F}.Release|Win32.ActiveCfg = Release|Win32
+		{A1E2AB51-99FA-4D63-AFBF-BB91C41E9D4F}.Release|Win32.Build.0 = Release|Win32
+		{5955BCD5-5F19-44AF-B9FE-585E317B2400}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5955BCD5-5F19-44AF-B9FE-585E317B2400}.Debug|Win32.Build.0 = Debug|Win32
+		{5955BCD5-5F19-44AF-B9FE-585E317B2400}.Release|Win32.ActiveCfg = Release|Win32
+		{5955BCD5-5F19-44AF-B9FE-585E317B2400}.Release|Win32.Build.0 = Release|Win32
+		{B6364017-2B51-4639-9EA8-E55BEBD417EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6364017-2B51-4639-9EA8-E55BEBD417EC}.Debug|Win32.Build.0 = Debug|Win32
+		{B6364017-2B51-4639-9EA8-E55BEBD417EC}.Release|Win32.ActiveCfg = Release|Win32
+		{B6364017-2B51-4639-9EA8-E55BEBD417EC}.Release|Win32.Build.0 = Release|Win32
+		{83DE9532-8770-43D4-9D10-FD0FD6DEFD7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{83DE9532-8770-43D4-9D10-FD0FD6DEFD7C}.Debug|Win32.Build.0 = Debug|Win32
+		{83DE9532-8770-43D4-9D10-FD0FD6DEFD7C}.Release|Win32.ActiveCfg = Release|Win32
+		{83DE9532-8770-43D4-9D10-FD0FD6DEFD7C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
